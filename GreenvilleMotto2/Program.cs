@@ -6,9 +6,9 @@ namespace GreenvilleMotto2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("##################################");
-            Console.WriteLine("# The stars shine in Greenville. #");
-            Console.WriteLine("##################################");
+            Console.WriteLine("**********************************");
+            Console.WriteLine("* The stars shine in Greenville. *");
+            Console.WriteLine("**********************************");
         }
     }
 }
