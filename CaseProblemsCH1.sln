@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenvilleMotto", "GreenvilleMotto\GreenvilleMotto.csproj", "{74BD53BE-0A6D-4AD1-9215-0BD0FCD3B3B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenvilleMotto2", "GreenvilleMotto2\GreenvilleMotto2.csproj", "{EB66B14F-3911-4C02-9269-6B7C4F1013A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74BD53BE-0A6D-4AD1-9215-0BD0FCD3B3B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74BD53BE-0A6D-4AD1-9215-0BD0FCD3B3B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74BD53BE-0A6D-4AD1-9215-0BD0FCD3B3B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74BD53BE-0A6D-4AD1-9215-0BD0FCD3B3B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB66B14F-3911-4C02-9269-6B7C4F1013A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB66B14F-3911-4C02-9269-6B7C4F1013A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB66B14F-3911-4C02-9269-6B7C4F1013A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB66B14F-3911-4C02-9269-6B7C4F1013A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {768AD5C3-5488-4882-87D8-AB72E54A1F85}
+	EndGlobalSection
+EndGlobal
